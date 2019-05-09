@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\SpamORHamV2\SpamORHamV2\obj\Debug\SpamORHamV2.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\SpamORHamV2\SpamORHamV2\obj\Debug\SpamORHamV2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\SpamORHamV2\SpamORHamV2\bin\Debug\SpamORHamV2.exe.config
+C:\Users\Andre\source\repos\SpamORHamV2\SpamORHamV2\bin\Debug\SpamORHamV2.exe
+C:\Users\Andre\source\repos\SpamORHamV2\SpamORHamV2\bin\Debug\SpamORHamV2.pdb
+C:\Users\Andre\source\repos\SpamORHamV2\SpamORHamV2\obj\Debug\SpamORHamV2.exe
+C:\Users\Andre\source\repos\SpamORHamV2\SpamORHamV2\obj\Debug\SpamORHamV2.pdb
